@@ -15,5 +15,5 @@ gcc - c++11
 
 # Description
 
-* trie
+### trie
 	trie.cpp implements the creation of trie using the array of patterns
