@@ -19,3 +19,9 @@ gcc - c++11
 	trie.cpp implements the creation of trie using the array of patterns.
 ### trie_matching
 	Searching of patterns in text has been implements in trie_matching.cpp. Using trie of patterns, pattern searching in text has been implemented.
+
+# Author
+
+Abhimanyu Kumar
++91-9492941710
+abhimanyukumar48@gmail.com
