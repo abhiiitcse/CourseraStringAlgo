@@ -12,3 +12,8 @@ Solution has been Written in C++11. C++ STL has been used.
 ### Prerequisites
 
 gcc - c++11
+
+# Description
+
+* trie
+	trie.cpp implements the creation of trie using the array of patterns
