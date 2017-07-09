@@ -20,7 +20,7 @@ gcc - c++11
 ### trie_matching
 	Searching of patterns in text has been implements in trie_matching.cpp. Using trie of patterns, pattern searching in text has been implemented.
 ### trie_matching_extended
-	trie_matching_extended.cpp contains the implementation of seaching all occurences of pattern in a text.
+	trie_matching_extended.cpp contains the implementation of searching all occurences of pattern in a text.
 	
 # Author
 
