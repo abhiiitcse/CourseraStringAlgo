@@ -12,7 +12,7 @@ using std::vector;
 string BWT(const string& text) {
   string result = "";
 
-  // write your code here
+  // write your code hereo
   vector<string> bwtMatrix;
   for(int i=0;i<text.size();i++){
     string new_str = "";
